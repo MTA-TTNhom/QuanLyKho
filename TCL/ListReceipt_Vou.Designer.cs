@@ -1,4 +1,6 @@
-﻿namespace QLKVCGT.GUI
+﻿using System.Windows.Forms;
+
+namespace QLKVCGT.GUI
 {
     partial class ListReceipt_Vou
     {
@@ -6,6 +8,9 @@
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
+        private Panel panel1;
+
+        public Label label16 { get; private set; }
 
         /// <summary>
         /// Clean up any resources being used.
@@ -71,6 +76,58 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvBillDetail)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvBillDetailView)).BeginInit();
             this.SuspendLayout();
+
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.panel3);
+            this.panel1.Controls.Add(this.panel2);
+            this.panel1.Location = new System.Drawing.Point(2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1430, 578);
+            this.panel1.TabIndex = 1;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.panel6);
+            this.panel3.Location = new System.Drawing.Point(644, 0);
+            this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(783, 576);
+            this.panel3.TabIndex = 18;
+            // 
+            // panel6
+            // 
+            this.panel6.Controls.Add(this.dtpkDayOfReceipt_Vou);
+            this.panel6.Controls.Add(this.label16);
+            this.panel6.Controls.Add(this.label15);
+            this.panel6.Controls.Add(this.panel8);
+            this.panel6.Location = new System.Drawing.Point(1, 2);
+            this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(753, 571);
+            this.panel6.TabIndex = 0;
+            // 
+            // dtpkDayOfReceipt_Vou
+            // 
+            this.dtpkDayOfReceipt_Vou.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dtpkDayOfReceipt_Vou.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpkDayOfReceipt_Vou.Location = new System.Drawing.Point(499, 54);
+            this.dtpkDayOfReceipt_Vou.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dtpkDayOfReceipt_Vou.Name = "dtpkDayOfReceipt_Vou";
+            this.dtpkDayOfReceipt_Vou.Size = new System.Drawing.Size(127, 23);
+            this.dtpkDayOfReceipt_Vou.TabIndex = 57;
+            // 
+            // label16
+            // 
+            this.label16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label16.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label16.Location = new System.Drawing.Point(339, 56);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(148, 21);
+            this.label16.TabIndex = 56;
+            this.label16.Text = "Tìm kiếm theo ngày:";
         }
 
         #endregion
