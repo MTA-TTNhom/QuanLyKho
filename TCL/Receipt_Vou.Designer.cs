@@ -71,6 +71,40 @@
             this.btnCancelSupplier = new DevExpress.XtraEditors.SimpleButton();
             this.tbPriceOnceItem = new System.Windows.Forms.TextBox();
             this.btnSave = new DevExpress.XtraEditors.SimpleButton();
+            ((System.ComponentModel.ISupportInitialize)(this.nudNumOfItem)).BeginInit();
+            this.panel10.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gctBill)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvBill)).BeginInit();
+            this.panel3.SuspendLayout();
+            this.panel9.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // nudNumOfItem
+            // 
+            this.nudNumOfItem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nudNumOfItem.Location = new System.Drawing.Point(120, 63);
+            this.nudNumOfItem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.nudNumOfItem.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.nudNumOfItem.Name = "nudNumOfItem";
+            this.nudNumOfItem.Size = new System.Drawing.Size(159, 23);
+            this.nudNumOfItem.TabIndex = 66;
+            this.nudNumOfItem.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.nudNumOfItem.ValueChanged += new System.EventHandler(this.nudNumOfItem_ValueChanged);
+            this.nudNumOfItem.Enter += new System.EventHandler(this.nudNumOfItem_Enter);
+
         }
 
         #endregion
