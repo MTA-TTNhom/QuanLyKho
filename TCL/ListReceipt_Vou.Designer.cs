@@ -128,8 +128,40 @@ namespace QLKVCGT.GUI
             this.label16.Size = new System.Drawing.Size(148, 21);
             this.label16.TabIndex = 56;
             this.label16.Text = "Tìm kiếm theo ngày:";
-        }
 
+            // 
+            // label15
+            // 
+            this.label15.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.Location = new System.Drawing.Point(236, 8);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(212, 23);
+            this.label15.TabIndex = 18;
+            this.label15.Text = "Danh sách phiếu nhập";
+            // 
+            // panel8
+            // 
+            this.panel8.Controls.Add(this.dgvListBill);
+            this.panel8.Location = new System.Drawing.Point(5, 128);
+            this.panel8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(746, 441);
+            this.panel8.TabIndex = 0;
+            // 
+            // dgvListBill
+            // 
+            this.dgvListBill.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvListBill.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dgvListBill.Location = new System.Drawing.Point(0, 0);
+            this.dgvListBill.MainView = this.dgvBillView;
+            this.dgvListBill.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dgvListBill.Name = "dgvListBill";
+            this.dgvListBill.Size = new System.Drawing.Size(746, 441);
+            this.dgvListBill.TabIndex = 0;
+            this.dgvListBill.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.dgvBillView});
+
+        }
         #endregion
     }
 }
