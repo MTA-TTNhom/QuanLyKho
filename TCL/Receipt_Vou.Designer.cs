@@ -322,6 +322,61 @@
             this.btnAddSupplier.TabIndex = 15;
             this.btnAddSupplier.Text = "Đồny ý";
             this.btnAddSupplier.Click += new System.EventHandler(this.btnAddSupplier_Click);
+            // 
+            // panel10
+            // 
+            this.panel10.Controls.Add(this.tbPriceOnceItem);
+            this.panel10.Controls.Add(this.nudNumOfItem);
+            this.panel10.Controls.Add(this.btnSaveItem);
+            this.panel10.Controls.Add(this.label4);
+            this.panel10.Controls.Add(this.btnCancelItem);
+            this.panel10.Controls.Add(this.label7);
+            this.panel10.Controls.Add(this.btnDeleteItem);
+            this.panel10.Controls.Add(this.tbItemID);
+            this.panel10.Controls.Add(this.btnEditItem);
+            this.panel10.Controls.Add(this.btnAddItem);
+            this.panel10.Controls.Add(this.tbItemName);
+            this.panel10.Controls.Add(this.tbTotalPriceItem);
+            this.panel10.Controls.Add(this.label6);
+            this.panel10.Controls.Add(this.label8);
+            this.panel10.Controls.Add(this.label5);
+            this.panel10.Controls.Add(this.label9);
+            this.panel10.Location = new System.Drawing.Point(1, 167);
+            this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(587, 214);
+            this.panel10.TabIndex = 59;
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.panel2);
+            this.panel1.Location = new System.Drawing.Point(-1, 1);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1372, 602);
+            this.panel1.TabIndex = 1;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.panel5);
+            this.panel2.Controls.Add(this.panel4);
+            this.panel2.Controls.Add(this.panel3);
+            this.panel2.Location = new System.Drawing.Point(4, 2);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1342, 597);
+            this.panel2.TabIndex = 57;
+            // 
+            // panel5
+            // 
+            this.panel5.Controls.Add(this.btnSave);
+            this.panel5.Controls.Add(this.label13);
+            this.panel5.Controls.Add(this.tbTotalPriceBill);
+            this.panel5.Location = new System.Drawing.Point(8, 389);
+            this.panel5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(590, 101);
+            this.panel5.TabIndex = 59;
 
         }
 
