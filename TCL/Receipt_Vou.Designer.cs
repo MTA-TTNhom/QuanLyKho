@@ -377,6 +377,114 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(590, 101);
             this.panel5.TabIndex = 59;
+            // 
+            // label13
+            // 
+            this.label13.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label13.Location = new System.Drawing.Point(134, 18);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(150, 21);
+            this.label13.TabIndex = 67;
+            this.label13.Text = "Tổng tiền thanh toán:";
+            // 
+            // tbTotalPriceBill
+            // 
+            this.tbTotalPriceBill.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbTotalPriceBill.Location = new System.Drawing.Point(289, 17);
+            this.tbTotalPriceBill.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbTotalPriceBill.Name = "tbTotalPriceBill";
+            this.tbTotalPriceBill.Size = new System.Drawing.Size(159, 23);
+            this.tbTotalPriceBill.TabIndex = 66;
+            this.tbTotalPriceBill.Text = "0";
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.label3);
+            this.panel4.Controls.Add(this.panel8);
+            this.panel4.Location = new System.Drawing.Point(605, 2);
+            this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(706, 572);
+            this.panel4.TabIndex = 58;
+            // 
+            // label3
+            // 
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(258, 66);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(230, 23);
+            this.label3.TabIndex = 58;
+            this.label3.Text = "Thông tin phiếu nhập kho";
+            // 
+            // panel8
+            // 
+            this.panel8.Controls.Add(this.gctBill);
+            this.panel8.Location = new System.Drawing.Point(26, 123);
+            this.panel8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(669, 436);
+            this.panel8.TabIndex = 0;
+            // 
+            // gctBill
+            // 
+            this.gctBill.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gctBill.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.gctBill.Location = new System.Drawing.Point(0, 0);
+            this.gctBill.MainView = this.dgvBill;
+            this.gctBill.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.gctBill.Name = "gctBill";
+            this.gctBill.Size = new System.Drawing.Size(669, 436);
+            this.gctBill.TabIndex = 0;
+            this.gctBill.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.dgvBill});
+            // 
+            // dgvBill
+            // 
+            this.dgvBill.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.ItemName,
+            this.Price,
+            this.NumOfItem,
+            this.TotalPriceOfItem,
+            this.itemId});
+            this.dgvBill.GridControl = this.gctBill;
+            this.dgvBill.Name = "dgvBill";
+            this.dgvBill.OptionsBehavior.ReadOnly = true;
+            // 
+            // ItemName
+            // 
+            this.ItemName.Caption = "Tên mặt hàng";
+            this.ItemName.FieldName = "itemName";
+            this.ItemName.Name = "ItemName";
+            this.ItemName.Visible = true;
+            this.ItemName.VisibleIndex = 1;
+            this.ItemName.Width = 163;
+            // 
+            // Price
+            // 
+            this.Price.Caption = "Giá (vnd)";
+            this.Price.FieldName = "price";
+            this.Price.Name = "Price";
+            this.Price.Visible = true;
+            this.Price.VisibleIndex = 2;
+            this.Price.Width = 92;
+            // 
+            // NumOfItem
+            // 
+            this.NumOfItem.Caption = "Số lượng (gói)";
+            this.NumOfItem.FieldName = "numOfItem";
+            this.NumOfItem.Name = "NumOfItem";
+            this.NumOfItem.Visible = true;
+            this.NumOfItem.VisibleIndex = 3;
+            this.NumOfItem.Width = 94;
+            // 
+            // TotalPriceOfItem
+            // 
+            this.TotalPriceOfItem.Caption = "Tổng giá (vnd)";
+            this.TotalPriceOfItem.FieldName = "totalPriceOfItem";
+            this.TotalPriceOfItem.Name = "TotalPriceOfItem";
+            this.TotalPriceOfItem.Visible = true;
+            this.TotalPriceOfItem.VisibleIndex = 4;
+            this.TotalPriceOfItem.Width = 165;
 
         }
 
