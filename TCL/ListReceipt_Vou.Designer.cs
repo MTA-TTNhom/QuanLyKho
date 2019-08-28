@@ -161,6 +161,49 @@ namespace QLKVCGT.GUI
             this.dgvListBill.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.dgvBillView});
 
+            // 
+            // dgvBillView
+            // 
+            this.dgvBillView.GridControl = this.dgvListBill;
+            this.dgvBillView.Name = "dgvBillView";
+            this.dgvBillView.OptionsBehavior.ReadOnly = true;
+            this.dgvBillView.FocusedRowChanged += new DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventHandler(this.dgvBillView_FocusedRowChanged);
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.panel7);
+            this.panel2.Controls.Add(this.panel4);
+            this.panel2.Location = new System.Drawing.Point(3, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(636, 574);
+            this.panel2.TabIndex = 17;
+            // 
+            // panel7
+            // 
+            this.panel7.Controls.Add(this.label2);
+            this.panel7.Controls.Add(this.tbTotalPrice);
+            this.panel7.Controls.Add(this.tbNgGiao);
+            this.panel7.Controls.Add(this.label5);
+            this.panel7.Controls.Add(this.label1);
+            this.panel7.Controls.Add(this.label3);
+            this.panel7.Controls.Add(this.label14);
+            this.panel7.Controls.Add(this.tbDateOfBill);
+            this.panel7.Controls.Add(this.tbCustomerID);
+            this.panel7.Controls.Add(this.label4);
+            this.panel7.Controls.Add(this.tbCustomerName);
+            this.panel7.Controls.Add(this.tbNumOfBill);
+            this.panel7.Controls.Add(this.label13);
+            this.panel7.Controls.Add(this.label11);
+            this.panel7.Controls.Add(this.tbEmployeesID);
+            this.panel7.Controls.Add(this.tbEmployeesName);
+            this.panel7.Controls.Add(this.label12);
+            this.panel7.Location = new System.Drawing.Point(3, 2);
+            this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(630, 184);
+            this.panel7.TabIndex = 1;
+
         }
         #endregion
     }
