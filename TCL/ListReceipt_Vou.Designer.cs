@@ -252,6 +252,104 @@ namespace QLKVCGT.GUI
             this.label1.TabIndex = 58;
             this.label1.Text = "Chi tiết phiếu nhập";
 
+            // 
+            // label3
+            // 
+            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label3.Location = new System.Drawing.Point(323, 119);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(114, 21);
+            this.label3.TabIndex = 52;
+            this.label3.Text = "Ngày nhập:";
+            // 
+            // label14
+            // 
+            this.label14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label14.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label14.Location = new System.Drawing.Point(3, 61);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(118, 21);
+            this.label14.TabIndex = 42;
+            this.label14.Text = "Mã nhà cung cấp:";
+            // 
+            // tbDateOfBill
+            // 
+            this.tbDateOfBill.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbDateOfBill.Location = new System.Drawing.Point(442, 117);
+            this.tbDateOfBill.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbDateOfBill.Name = "tbDateOfBill";
+            this.tbDateOfBill.Size = new System.Drawing.Size(186, 23);
+            this.tbDateOfBill.TabIndex = 51;
+            // 
+            // tbCustomerID
+            // 
+            this.tbCustomerID.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbCustomerID.Location = new System.Drawing.Point(125, 59);
+            this.tbCustomerID.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbCustomerID.Name = "tbCustomerID";
+            this.tbCustomerID.Size = new System.Drawing.Size(186, 23);
+            this.tbCustomerID.TabIndex = 41;
+            // 
+            // label4
+            // 
+            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label4.Location = new System.Drawing.Point(3, 119);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(118, 21);
+            this.label4.TabIndex = 50;
+            this.label4.Text = "Số phiếu nhập:";
+
+            // 
+            // label3
+            // 
+            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label3.Location = new System.Drawing.Point(323, 119);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(114, 21);
+            this.label3.TabIndex = 52;
+            this.label3.Text = "Ngày nhập:";
+            // 
+            // label14
+            // 
+            this.label14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label14.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label14.Location = new System.Drawing.Point(3, 61);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(118, 21);
+            this.label14.TabIndex = 42;
+            this.label14.Text = "Mã nhà cung cấp:";
+            // 
+            // tbDateOfBill
+            // 
+            this.tbDateOfBill.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbDateOfBill.Location = new System.Drawing.Point(442, 117);
+            this.tbDateOfBill.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbDateOfBill.Name = "tbDateOfBill";
+            this.tbDateOfBill.Size = new System.Drawing.Size(186, 23);
+            this.tbDateOfBill.TabIndex = 51;
+            // 
+            // tbCustomerID
+            // 
+            this.tbCustomerID.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbCustomerID.Location = new System.Drawing.Point(125, 59);
+            this.tbCustomerID.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbCustomerID.Name = "tbCustomerID";
+            this.tbCustomerID.Size = new System.Drawing.Size(186, 23);
+            this.tbCustomerID.TabIndex = 41;
+            // 
+            // label4
+            // 
+            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label4.Location = new System.Drawing.Point(3, 119);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(118, 21);
+            this.label4.TabIndex = 50;
+            this.label4.Text = "Số phiếu nhập:";
+
         }
         #endregion
     }
