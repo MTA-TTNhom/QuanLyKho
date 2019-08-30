@@ -350,6 +350,82 @@ namespace QLKVCGT.GUI
             this.label4.TabIndex = 50;
             this.label4.Text = "Số phiếu nhập:";
 
+            // 
+            // tbCustomerName
+            // 
+            this.tbCustomerName.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbCustomerName.Location = new System.Drawing.Point(442, 59);
+            this.tbCustomerName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbCustomerName.Name = "tbCustomerName";
+            this.tbCustomerName.Size = new System.Drawing.Size(186, 23);
+            this.tbCustomerName.TabIndex = 43;
+            // 
+            // tbNumOfBill
+            // 
+            this.tbNumOfBill.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbNumOfBill.Location = new System.Drawing.Point(125, 117);
+            this.tbNumOfBill.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbNumOfBill.Name = "tbNumOfBill";
+            this.tbNumOfBill.Size = new System.Drawing.Size(186, 23);
+            this.tbNumOfBill.TabIndex = 49;
+            // 
+            // label13
+            // 
+            this.label13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label13.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label13.Location = new System.Drawing.Point(323, 61);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(114, 21);
+            this.label13.TabIndex = 44;
+            this.label13.Text = "Tên nhà cung cấp:";
+            // 
+            // label11
+            // 
+            this.label11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label11.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label11.Location = new System.Drawing.Point(323, 90);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(114, 21);
+            this.label11.TabIndex = 48;
+            this.label11.Text = "Tên nhân viên:";
+            // 
+            // tbEmployeesID
+            // 
+            this.tbEmployeesID.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbEmployeesID.Location = new System.Drawing.Point(125, 89);
+            this.tbEmployeesID.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbEmployeesID.Name = "tbEmployeesID";
+            this.tbEmployeesID.Size = new System.Drawing.Size(186, 23);
+            this.tbEmployeesID.TabIndex = 45;
+            // 
+            // tbEmployeesName
+            // 
+            this.tbEmployeesName.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbEmployeesName.Location = new System.Drawing.Point(442, 89);
+            this.tbEmployeesName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbEmployeesName.Name = "tbEmployeesName";
+            this.tbEmployeesName.Size = new System.Drawing.Size(186, 23);
+            this.tbEmployeesName.TabIndex = 47;
+            // 
+            // label12
+            // 
+            this.label12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label12.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label12.Location = new System.Drawing.Point(3, 90);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(118, 21);
+            this.label12.TabIndex = 46;
+            this.label12.Text = "Mã nhân viên:";
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.dgvBillDetail);
+            this.panel4.Location = new System.Drawing.Point(3, 201);
+            this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(631, 370);
+            this.panel4.TabIndex = 0;
+
         }
         #endregion
     }
