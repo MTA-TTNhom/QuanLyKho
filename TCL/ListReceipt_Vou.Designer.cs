@@ -204,6 +204,54 @@ namespace QLKVCGT.GUI
             this.panel7.Size = new System.Drawing.Size(630, 184);
             this.panel7.TabIndex = 1;
 
+            // 
+            // label2
+            // 
+            this.label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label2.Location = new System.Drawing.Point(3, 149);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(118, 21);
+            this.label2.TabIndex = 60;
+            this.label2.Text = "Tổng tiền:";
+            // 
+            // tbTotalPrice
+            // 
+            this.tbTotalPrice.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbTotalPrice.Location = new System.Drawing.Point(125, 147);
+            this.tbTotalPrice.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbTotalPrice.Name = "tbTotalPrice";
+            this.tbTotalPrice.Size = new System.Drawing.Size(186, 23);
+            this.tbTotalPrice.TabIndex = 59;
+            // 
+            // tbNgGiao
+            // 
+            this.tbNgGiao.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbNgGiao.Location = new System.Drawing.Point(442, 147);
+            this.tbNgGiao.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbNgGiao.Name = "tbNgGiao";
+            this.tbNgGiao.Size = new System.Drawing.Size(186, 23);
+            this.tbNgGiao.TabIndex = 61;
+            // 
+            // label5
+            // 
+            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label5.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label5.Location = new System.Drawing.Point(323, 149);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(114, 21);
+            this.label5.TabIndex = 62;
+            this.label5.Text = "Người giao:";
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(210, 8);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(167, 23);
+            this.label1.TabIndex = 58;
+            this.label1.Text = "Chi tiết phiếu nhập";
+
         }
         #endregion
     }
