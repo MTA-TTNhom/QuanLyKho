@@ -485,6 +485,79 @@
             this.TotalPriceOfItem.Visible = true;
             this.TotalPriceOfItem.VisibleIndex = 4;
             this.TotalPriceOfItem.Width = 165;
+            // 
+            // itemId
+            // 
+            this.itemId.Caption = "Mã mặt hàng";
+            this.itemId.FieldName = "itemId";
+            this.itemId.Name = "itemId";
+            this.itemId.Visible = true;
+            this.itemId.VisibleIndex = 0;
+            this.itemId.Width = 97;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.panel9);
+            this.panel3.Controls.Add(this.panel10);
+            this.panel3.Location = new System.Drawing.Point(8, 2);
+            this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(590, 383);
+            this.panel3.TabIndex = 57;
+            // 
+            // panel9
+            // 
+            this.panel9.Controls.Add(this.label15);
+            this.panel9.Controls.Add(this.label2);
+            this.panel9.Controls.Add(this.tbSupplierName);
+            this.panel9.Controls.Add(this.tbSupplierID);
+            this.panel9.Controls.Add(this.label1);
+            this.panel9.Controls.Add(this.btnCancelSupplier);
+            this.panel9.Controls.Add(this.btnAddSupplier);
+            this.panel9.Location = new System.Drawing.Point(0, 2);
+            this.panel9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(587, 161);
+            this.panel9.TabIndex = 65;
+            // 
+            // btnCancelSupplier
+            // 
+            this.btnCancelSupplier.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancelSupplier.Appearance.Options.UseFont = true;
+            this.btnCancelSupplier.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
+            this.btnCancelSupplier.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnCancelSupplier.ImageOptions.Image")));
+            this.btnCancelSupplier.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
+            this.btnCancelSupplier.Location = new System.Drawing.Point(309, 71);
+            this.btnCancelSupplier.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnCancelSupplier.Name = "btnCancelSupplier";
+            this.btnCancelSupplier.Size = new System.Drawing.Size(96, 37);
+            this.btnCancelSupplier.TabIndex = 59;
+            this.btnCancelSupplier.Text = "Hủy";
+            this.btnCancelSupplier.Click += new System.EventHandler(this.btnCancelSupplier_Click);
+            // 
+            // tbPriceOnceItem
+            // 
+            this.tbPriceOnceItem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbPriceOnceItem.Location = new System.Drawing.Point(407, 62);
+            this.tbPriceOnceItem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbPriceOnceItem.Name = "tbPriceOnceItem";
+            this.tbPriceOnceItem.Size = new System.Drawing.Size(159, 23);
+            this.tbPriceOnceItem.TabIndex = 67;
+            // 
+            // btnSave
+            // 
+            this.btnSave.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSave.Appearance.Options.UseFont = true;
+            this.btnSave.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
+            this.btnSave.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton1.ImageOptions.Image")));
+            this.btnSave.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
+            this.btnSave.Location = new System.Drawing.Point(247, 49);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(96, 36);
+            this.btnSave.TabIndex = 68;
+            this.btnSave.Text = "Lưu";
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
 
         }
 
