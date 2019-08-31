@@ -558,7 +558,31 @@
             this.btnSave.TabIndex = 68;
             this.btnSave.Text = "Lưu";
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
-
+            // 
+            // Receipt_Vou
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1370, 739);
+            this.Controls.Add(this.panel1);
+            this.Name = "Receipt_Vou";
+            this.Text = "Phiếu nhập kho";
+            this.Load += new System.EventHandler(this.Reciept_Vou_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.nudNumOfItem)).EndInit();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            this.panel8.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.gctBill)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvBill)).EndInit();
+            this.panel3.ResumeLayout(false);
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            this.ResumeLayout(false);
         }
 
         #endregion
