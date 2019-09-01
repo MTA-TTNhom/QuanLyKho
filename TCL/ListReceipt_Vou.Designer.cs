@@ -426,7 +426,50 @@ namespace QLKVCGT.GUI
             this.panel4.Size = new System.Drawing.Size(631, 370);
             this.panel4.TabIndex = 0;
 
-        }
+            // 
+            // dgvBillDetail
+            // 
+            this.dgvBillDetail.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvBillDetail.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dgvBillDetail.Location = new System.Drawing.Point(0, 0);
+            this.dgvBillDetail.MainView = this.dgvBillDetailView;
+            this.dgvBillDetail.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dgvBillDetail.Name = "dgvBillDetail";
+            this.dgvBillDetail.Size = new System.Drawing.Size(631, 370);
+            this.dgvBillDetail.TabIndex = 0;
+            this.dgvBillDetail.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.dgvBillDetailView});
+            // 
+            // dgvBillDetailView
+            // 
+            this.dgvBillDetailView.GridControl = this.dgvBillDetail;
+            this.dgvBillDetailView.Name = "dgvBillDetailView";
+            this.dgvBillDetailView.OptionsBehavior.ReadOnly = true;
+            // 
+            // ListReceipt_Vou
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1174, 591);
+            this.Controls.Add(this.panel1);
+            this.Name = "ListReceipt_Vou";
+            this.Text = "ListReceipt_Vou";
+            this.Load += new System.EventHandler(this.ListReceipt_Vou_Load);
+            this.panel1.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel6.ResumeLayout(false);
+            this.panel8.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListBill)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvBillView)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvBillDetail)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvBillDetailView)).EndInit();
+            this.ResumeLayout(false);
+
+    }
         #endregion
     }
 }
