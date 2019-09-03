@@ -469,6 +469,38 @@ namespace QLKVCGT.GUI
             ((System.ComponentModel.ISupportInitialize)(this.dgvBillDetailView)).EndInit();
             this.ResumeLayout(false);
 
+
+            private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.DateTimePicker dtpkDayOfReceipt_Vou;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Panel panel8;
+        private DevExpress.XtraGrid.GridControl dgvListBill;
+        private DevExpress.XtraGrid.Views.Grid.GridView dgvBillView;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox tbTotalPrice;
+        private System.Windows.Forms.TextBox tbNgGiao;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.TextBox tbDateOfBill;
+        private System.Windows.Forms.TextBox tbCustomerID;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox tbCustomerName;
+        private System.Windows.Forms.TextBox tbNumOfBill;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.TextBox tbEmployeesID;
+        private System.Windows.Forms.TextBox tbEmployeesName;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Panel panel4;
+        private DevExpress.XtraGrid.GridControl dgvBillDetail;
+        private DevExpress.XtraGrid.Views.Grid.GridView dgvBillDetailView;
     }
         #endregion
     }
