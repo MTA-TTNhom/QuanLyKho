@@ -420,6 +420,120 @@
             this.printPreviewBarItem5.Id = 10;
             this.printPreviewBarItem5.ImageIndex = 20;
             this.printPreviewBarItem5.Name = "printPreviewBarItem5";
+            // 
+            // printPreviewBarItem6
+            // 
+            this.printPreviewBarItem6.Caption = "Customize";
+            this.printPreviewBarItem6.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Customize;
+            this.printPreviewBarItem6.Enabled = false;
+            this.printPreviewBarItem6.Hint = "Customize";
+            this.printPreviewBarItem6.Id = 11;
+            this.printPreviewBarItem6.ImageIndex = 14;
+            this.printPreviewBarItem6.Name = "printPreviewBarItem6";
+            // 
+            // printPreviewBarItem7
+            // 
+            this.printPreviewBarItem7.Caption = "Open";
+            this.printPreviewBarItem7.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Open;
+            this.printPreviewBarItem7.Enabled = false;
+            this.printPreviewBarItem7.Hint = "Open a document";
+            this.printPreviewBarItem7.Id = 12;
+            this.printPreviewBarItem7.ImageIndex = 24;
+            this.printPreviewBarItem7.Name = "printPreviewBarItem7";
+            // 
+            // printPreviewBarItem8
+            // 
+            this.printPreviewBarItem8.Caption = "Save";
+            this.printPreviewBarItem8.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Save;
+            this.printPreviewBarItem8.Enabled = false;
+            this.printPreviewBarItem8.Hint = "Save the document";
+            this.printPreviewBarItem8.Id = 13;
+            this.printPreviewBarItem8.ImageIndex = 25;
+            this.printPreviewBarItem8.Name = "printPreviewBarItem8";
+            // 
+            // printPreviewBarItem9
+            // 
+            this.printPreviewBarItem9.Caption = "&Print...";
+            this.printPreviewBarItem9.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Print;
+            this.printPreviewBarItem9.Enabled = false;
+            this.printPreviewBarItem9.Hint = "Print";
+            this.printPreviewBarItem9.Id = 14;
+            this.printPreviewBarItem9.ImageIndex = 0;
+            this.printPreviewBarItem9.Name = "printPreviewBarItem9";
+            // 
+            // printPreviewBarItem10
+            // 
+            this.printPreviewBarItem10.Caption = "P&rint";
+            this.printPreviewBarItem10.Command = DevExpress.XtraPrinting.PrintingSystemCommand.PrintDirect;
+            this.printPreviewBarItem10.Enabled = false;
+            this.printPreviewBarItem10.Hint = "Quick Print";
+            this.printPreviewBarItem10.Id = 15;
+            this.printPreviewBarItem10.ImageIndex = 1;
+            this.printPreviewBarItem10.Name = "printPreviewBarItem10";
+            // 
+            // printPreviewBarItem11
+            // 
+            this.printPreviewBarItem11.Caption = "Page Set&up...";
+            this.printPreviewBarItem11.Command = DevExpress.XtraPrinting.PrintingSystemCommand.PageSetup;
+            this.printPreviewBarItem11.Enabled = false;
+            this.printPreviewBarItem11.Hint = "Page Setup";
+            this.printPreviewBarItem11.Id = 16;
+            this.printPreviewBarItem11.ImageIndex = 2;
+            this.printPreviewBarItem11.Name = "printPreviewBarItem11";
+            // 
+            // printPreviewBarItem12
+            // 
+            this.printPreviewBarItem12.Caption = "Header And Footer";
+            this.printPreviewBarItem12.Command = DevExpress.XtraPrinting.PrintingSystemCommand.EditPageHF;
+            this.printPreviewBarItem12.Enabled = false;
+            this.printPreviewBarItem12.Hint = "Header And Footer";
+            this.printPreviewBarItem12.Id = 17;
+            this.printPreviewBarItem12.ImageIndex = 15;
+            this.printPreviewBarItem12.Name = "printPreviewBarItem12";
+            // 
+            // printPreviewBarItem13
+            // 
+            this.printPreviewBarItem13.ActAsDropDown = true;
+            this.printPreviewBarItem13.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.DropDown;
+            this.printPreviewBarItem13.Caption = "Scale";
+            this.printPreviewBarItem13.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Scale;
+            this.printPreviewBarItem13.Enabled = false;
+            this.printPreviewBarItem13.Hint = "Scale";
+            this.printPreviewBarItem13.Id = 18;
+            this.printPreviewBarItem13.ImageIndex = 26;
+            this.printPreviewBarItem13.Name = "printPreviewBarItem13";
+            // 
+            // printPreviewBarItem14
+            // 
+            this.printPreviewBarItem14.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.Check;
+            this.printPreviewBarItem14.Caption = "Hand Tool";
+            this.printPreviewBarItem14.Command = DevExpress.XtraPrinting.PrintingSystemCommand.HandTool;
+            this.printPreviewBarItem14.Enabled = false;
+            this.printPreviewBarItem14.Hint = "Hand Tool";
+            this.printPreviewBarItem14.Id = 19;
+            this.printPreviewBarItem14.ImageIndex = 16;
+            this.printPreviewBarItem14.Name = "printPreviewBarItem14";
+            // 
+            // printPreviewBarItem15
+            // 
+            this.printPreviewBarItem15.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.Check;
+            this.printPreviewBarItem15.Caption = "Magnifier";
+            this.printPreviewBarItem15.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Magnifier;
+            this.printPreviewBarItem15.Enabled = false;
+            this.printPreviewBarItem15.Hint = "Magnifier";
+            this.printPreviewBarItem15.Id = 20;
+            this.printPreviewBarItem15.ImageIndex = 3;
+            this.printPreviewBarItem15.Name = "printPreviewBarItem15";
+            // 
+            // printPreviewBarItem16
+            // 
+            this.printPreviewBarItem16.Caption = "Zoom Out";
+            this.printPreviewBarItem16.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ZoomOut;
+            this.printPreviewBarItem16.Enabled = false;
+            this.printPreviewBarItem16.Hint = "Zoom Out";
+            this.printPreviewBarItem16.Id = 21;
+            this.printPreviewBarItem16.ImageIndex = 5;
+            this.printPreviewBarItem16.Name = "printPreviewBarItem16";
 
         }
 
