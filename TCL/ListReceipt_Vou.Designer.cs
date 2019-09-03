@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace QLKVCGT.GUI
+namespace TCL
 {
     partial class ListReceipt_Vou
     {
@@ -502,6 +502,6 @@ namespace QLKVCGT.GUI
         private DevExpress.XtraGrid.GridControl dgvBillDetail;
         private DevExpress.XtraGrid.Views.Grid.GridView dgvBillDetailView;
     }
-        #endregion
-    }
+    #endregion
+}
 }
