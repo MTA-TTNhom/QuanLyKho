@@ -586,5 +586,47 @@
         }
 
         #endregion
+        private System.Windows.Forms.NumericUpDown nudNumOfItem;
+        private DevExpress.XtraEditors.SimpleButton btnSaveItem;
+        private System.Windows.Forms.Label label4;
+        private DevExpress.XtraEditors.SimpleButton btnCancelItem;
+        private System.Windows.Forms.Label label7;
+        private DevExpress.XtraEditors.SimpleButton btnDeleteItem;
+        private System.Windows.Forms.TextBox tbItemID;
+        private DevExpress.XtraEditors.SimpleButton btnEditItem;
+        private DevExpress.XtraEditors.SimpleButton btnAddItem;
+        private System.Windows.Forms.TextBox tbItemName;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox tbSupplierName;
+        private System.Windows.Forms.TextBox tbSupplierID;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox tbTotalPriceItem;
+        private DevExpress.XtraEditors.SimpleButton btnAddSupplier;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.TextBox tbTotalPriceBill;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Panel panel8;
+        private DevExpress.XtraGrid.GridControl gctBill;
+        private DevExpress.XtraGrid.Views.Grid.GridView dgvBill;
+        private DevExpress.XtraGrid.Columns.GridColumn ItemName;
+        private DevExpress.XtraGrid.Columns.GridColumn Price;
+        private DevExpress.XtraGrid.Columns.GridColumn NumOfItem;
+        private DevExpress.XtraGrid.Columns.GridColumn TotalPriceOfItem;
+        private DevExpress.XtraGrid.Columns.GridColumn itemId;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel panel9;
+        private DevExpress.XtraEditors.SimpleButton btnCancelSupplier;
+        private System.Windows.Forms.TextBox tbPriceOnceItem;
+        private DevExpress.XtraEditors.SimpleButton btnSave;
     }
 }
