@@ -196,6 +196,104 @@
             this.printPreviewRepositoryItemComboBox1});
             this.documentViewerBarManager1.StatusBar = this.previewBar2;
             this.documentViewerBarManager1.TransparentEditors = true;
+            // 
+            // barDockControlTop
+            // 
+            this.barDockControlTop.CausesValidation = false;
+            this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
+            this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
+            this.barDockControlTop.Size = new System.Drawing.Size(823, 68);
+            // 
+            // barDockControlBottom
+            // 
+            this.barDockControlBottom.CausesValidation = false;
+            this.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.barDockControlBottom.Location = new System.Drawing.Point(0, 697);
+            this.barDockControlBottom.Size = new System.Drawing.Size(823, 34);
+            // 
+            // barDockControlLeft
+            // 
+            this.barDockControlLeft.CausesValidation = false;
+            this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
+            this.barDockControlLeft.Location = new System.Drawing.Point(0, 68);
+            this.barDockControlLeft.Size = new System.Drawing.Size(0, 629);
+            // 
+            // barDockControlRight
+            // 
+            this.barDockControlRight.CausesValidation = false;
+            this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
+            this.barDockControlRight.Location = new System.Drawing.Point(823, 68);
+            this.barDockControlRight.Size = new System.Drawing.Size(0, 629);
+            // 
+            // previewBar1
+            // 
+            this.previewBar1.BarName = "Toolbar";
+            this.previewBar1.DockCol = 0;
+            this.previewBar1.DockRow = 1;
+            this.previewBar1.DockStyle = DevExpress.XtraBars.BarDockStyle.Top;
+            this.previewBar1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem2),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem3),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem4),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem5),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem6, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem7, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem8),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem9, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem10),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem11),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem12),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem13),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem14, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem15),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem16, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.zoomBarEditItem1),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem17),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem18, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem19),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem20),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem21),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem22, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem23),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem24),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem25, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem26),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem27, true)});
+            this.previewBar1.Text = "Toolbar";
+            // 
+            // previewBar2
+            // 
+            this.previewBar2.BarName = "Status Bar";
+            this.previewBar2.CanDockStyle = DevExpress.XtraBars.BarCanDockStyle.Bottom;
+            this.previewBar2.DockCol = 0;
+            this.previewBar2.DockRow = 0;
+            this.previewBar2.DockStyle = DevExpress.XtraBars.BarDockStyle.Bottom;
+            this.previewBar2.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewStaticItem1),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barStaticItem1, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.progressBarEditItem1),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem1),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barButtonItem1),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewStaticItem2, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.zoomTrackBarEditItem1)});
+            this.previewBar2.OptionsBar.AllowQuickCustomization = false;
+            this.previewBar2.OptionsBar.DrawDragBorder = false;
+            this.previewBar2.OptionsBar.UseWholeRow = true;
+            this.previewBar2.Text = "Status Bar";
+            // 
+            // previewBar3
+            // 
+            this.previewBar3.BarName = "Main Menu";
+            this.previewBar3.DockCol = 0;
+            this.previewBar3.DockRow = 0;
+            this.previewBar3.DockStyle = DevExpress.XtraBars.BarDockStyle.Top;
+            this.previewBar3.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewSubItem1),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewSubItem2),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewSubItem3)});
+            this.previewBar3.OptionsBar.MultiLine = true;
+            this.previewBar3.OptionsBar.UseWholeRow = true;
+            this.previewBar3.Text = "Main Menu";
         }
 
         #endregion
