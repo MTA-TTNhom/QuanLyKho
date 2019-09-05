@@ -25,5 +25,18 @@ namespace QLKVCGT.Controller
                 instance = value;
             }
         }
+        private IssueVouControl() { }
+
+
+        public DataTable DataSource_GetListBill()
+        {
+            string query = @"exec SP_getListBill ";
+            return DataProvider.Instances.ExecuteQuery(query, new object[] { });
+        }
+        public int InsertBill(int _employessId, string _customerId, int _totalPrice)
+        {
+            string query = @"exec SP_insertBill @employeesId, @customerId, @totalPrice";
+            return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _employessId, _customerId, _totalPrice });
+        }
     }
 }
