@@ -534,6 +534,139 @@
             this.printPreviewBarItem16.Id = 21;
             this.printPreviewBarItem16.ImageIndex = 5;
             this.printPreviewBarItem16.Name = "printPreviewBarItem16";
+            // 
+            // zoomBarEditItem1
+            // 
+            this.zoomBarEditItem1.Caption = "Zoom";
+            this.zoomBarEditItem1.Edit = this.printPreviewRepositoryItemComboBox1;
+            this.zoomBarEditItem1.EditValue = "100%";
+            this.zoomBarEditItem1.EditWidth = 70;
+            this.zoomBarEditItem1.Enabled = false;
+            this.zoomBarEditItem1.Hint = "Zoom";
+            this.zoomBarEditItem1.Id = 22;
+            this.zoomBarEditItem1.Name = "zoomBarEditItem1";
+            // 
+            // printPreviewRepositoryItemComboBox1
+            // 
+            this.printPreviewRepositoryItemComboBox1.AutoComplete = false;
+            this.printPreviewRepositoryItemComboBox1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.printPreviewRepositoryItemComboBox1.DropDownRows = 11;
+            this.printPreviewRepositoryItemComboBox1.Name = "printPreviewRepositoryItemComboBox1";
+            // 
+            // printPreviewBarItem17
+            // 
+            this.printPreviewBarItem17.Caption = "Zoom In";
+            this.printPreviewBarItem17.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ZoomIn;
+            this.printPreviewBarItem17.Enabled = false;
+            this.printPreviewBarItem17.Hint = "Zoom In";
+            this.printPreviewBarItem17.Id = 23;
+            this.printPreviewBarItem17.ImageIndex = 4;
+            this.printPreviewBarItem17.Name = "printPreviewBarItem17";
+            // 
+            // printPreviewBarItem18
+            // 
+            this.printPreviewBarItem18.Caption = "First Page";
+            this.printPreviewBarItem18.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ShowFirstPage;
+            this.printPreviewBarItem18.Enabled = false;
+            this.printPreviewBarItem18.Hint = "First Page";
+            this.printPreviewBarItem18.Id = 24;
+            this.printPreviewBarItem18.ImageIndex = 7;
+            this.printPreviewBarItem18.Name = "printPreviewBarItem18";
+            // 
+            // printPreviewBarItem19
+            // 
+            this.printPreviewBarItem19.Caption = "Previous Page";
+            this.printPreviewBarItem19.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ShowPrevPage;
+            this.printPreviewBarItem19.Enabled = false;
+            this.printPreviewBarItem19.Hint = "Previous Page";
+            this.printPreviewBarItem19.Id = 25;
+            this.printPreviewBarItem19.ImageIndex = 8;
+            this.printPreviewBarItem19.Name = "printPreviewBarItem19";
+            // 
+            // printPreviewBarItem20
+            // 
+            this.printPreviewBarItem20.Caption = "Next Page";
+            this.printPreviewBarItem20.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ShowNextPage;
+            this.printPreviewBarItem20.Enabled = false;
+            this.printPreviewBarItem20.Hint = "Next Page";
+            this.printPreviewBarItem20.Id = 26;
+            this.printPreviewBarItem20.ImageIndex = 9;
+            this.printPreviewBarItem20.Name = "printPreviewBarItem20";
+            // 
+            // printPreviewBarItem21
+            // 
+            this.printPreviewBarItem21.Caption = "Last Page";
+            this.printPreviewBarItem21.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ShowLastPage;
+            this.printPreviewBarItem21.Enabled = false;
+            this.printPreviewBarItem21.Hint = "Last Page";
+            this.printPreviewBarItem21.Id = 27;
+            this.printPreviewBarItem21.ImageIndex = 10;
+            this.printPreviewBarItem21.Name = "printPreviewBarItem21";
+            // 
+            // printPreviewBarItem22
+            // 
+            this.printPreviewBarItem22.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.DropDown;
+            this.printPreviewBarItem22.Caption = "Multiple Pages";
+            this.printPreviewBarItem22.Command = DevExpress.XtraPrinting.PrintingSystemCommand.MultiplePages;
+            this.printPreviewBarItem22.Enabled = false;
+            this.printPreviewBarItem22.Hint = "Multiple Pages";
+            this.printPreviewBarItem22.Id = 28;
+            this.printPreviewBarItem22.ImageIndex = 11;
+            this.printPreviewBarItem22.Name = "printPreviewBarItem22";
+            // 
+            // printPreviewBarItem23
+            // 
+            this.printPreviewBarItem23.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.DropDown;
+            this.printPreviewBarItem23.Caption = "&Color...";
+            this.printPreviewBarItem23.Command = DevExpress.XtraPrinting.PrintingSystemCommand.FillBackground;
+            this.printPreviewBarItem23.Enabled = false;
+            this.printPreviewBarItem23.Hint = "Background";
+            this.printPreviewBarItem23.Id = 29;
+            this.printPreviewBarItem23.ImageIndex = 12;
+            this.printPreviewBarItem23.Name = "printPreviewBarItem23";
+            // 
+            // printPreviewBarItem24
+            // 
+            this.printPreviewBarItem24.Caption = "&Watermark...";
+            this.printPreviewBarItem24.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Watermark;
+            this.printPreviewBarItem24.Enabled = false;
+            this.printPreviewBarItem24.Hint = "Watermark";
+            this.printPreviewBarItem24.Id = 30;
+            this.printPreviewBarItem24.ImageIndex = 21;
+            this.printPreviewBarItem24.Name = "printPreviewBarItem24";
+            // 
+            // printPreviewBarItem25
+            // 
+            this.printPreviewBarItem25.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.DropDown;
+            this.printPreviewBarItem25.Caption = "Export Document...";
+            this.printPreviewBarItem25.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportFile;
+            this.printPreviewBarItem25.Enabled = false;
+            this.printPreviewBarItem25.Hint = "Export Document...";
+            this.printPreviewBarItem25.Id = 31;
+            this.printPreviewBarItem25.ImageIndex = 18;
+            this.printPreviewBarItem25.Name = "printPreviewBarItem25";
+            // 
+            // printPreviewBarItem26
+            // 
+            this.printPreviewBarItem26.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.DropDown;
+            this.printPreviewBarItem26.Caption = "Send via E-Mail...";
+            this.printPreviewBarItem26.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendFile;
+            this.printPreviewBarItem26.Enabled = false;
+            this.printPreviewBarItem26.Hint = "Send via E-Mail...";
+            this.printPreviewBarItem26.Id = 32;
+            this.printPreviewBarItem26.ImageIndex = 17;
+            this.printPreviewBarItem26.Name = "printPreviewBarItem26";
+            // 
+            // printPreviewBarItem27
+            // 
+            this.printPreviewBarItem27.Caption = "E&xit";
+            this.printPreviewBarItem27.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ClosePreview;
+            this.printPreviewBarItem27.Enabled = false;
+            this.printPreviewBarItem27.Hint = "Close Preview";
+            this.printPreviewBarItem27.Id = 33;
+            this.printPreviewBarItem27.ImageIndex = 13;
+            this.printPreviewBarItem27.Name = "printPreviewBarItem27";
 
         }
 
