@@ -66,5 +66,39 @@ namespace TCL.GUI
             btnCancel.Enabled = !e;
 
         }
+
+        private void btnChangePass_Click(object sender, EventArgs e)
+        {
+            ChangePass change = new ChangePass();
+            change.init(id, pass);
+            change.ShowDialog();
+        }
+
+        private void btnChangeInfo_Click(object sender, EventArgs e)
+        {
+            tbCountry.ReadOnly = false;
+            dtpkDateOfBirth.Enabled = true;
+            tbTelephoneNumber.ReadOnly = false;
+            cbbSex.Enabled = true;
+
+            btnChangePass.Enabled = false;
+            btnSave.Enabled = true;
+            btnCancel.Enabled = true;
+        }
+
+        private int ChangeInfo()
+        {
+            int _id = Convert.ToInt32(tbID.Text.Trim(' '));
+            DateTime _dateOfBirth = dtpkDateOfBirth.Value;
+            string _name = tbName.Text.Trim(' ');
+            string _userName = tbUserName.Text.Trim(' ');
+            int _sex;
+            if (cbbSex.Text == "Nam") _sex = 1;
+            else _sex = 0;
+            float _salary = (float)Convert.ToDouble(tbSalary.Text);
+            string _telephoneNumber = tbTelephoneNumber.Text.Trim(' ');
+            string _country = tbCountry.Text.Trim(' ');
+            return AcountInfoControl.Instance.ChangeAcount(_id, _name, _dateOfBirth, _sex, _userName, _country, _telephoneNumber);
+        }
     }
 }
