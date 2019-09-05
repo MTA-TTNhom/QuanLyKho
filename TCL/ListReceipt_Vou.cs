@@ -47,7 +47,7 @@ namespace TCL
                 dgvListBill.DataSource = ReceiptVouControl.Instance.DataSource_GetListBill();
             }
             catch { }
-        }
+        }   
 
         private void binding()
         {
