@@ -100,5 +100,19 @@ namespace TCL.GUI
             string _country = tbCountry.Text.Trim(' ');
             return AcountInfoControl.Instance.ChangeAcount(_id, _name, _dateOfBirth, _sex, _userName, _country, _telephoneNumber);
         }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            if (ChangeInfo() == 1)
+            {
+                MessageBox.Show("Thành công!");
+            }
+            load();
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            load();
+        }
     }
 }
