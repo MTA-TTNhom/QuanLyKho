@@ -46,6 +46,11 @@ namespace QLKVCGT.Controller
             string query = @"exec SP_insertItem @itemName, @numberOfStored, @once, @price";
             return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _itemName, _numberOfStored, _once, _price });
         }
+        public int UpdateItem(string _itemName, int _numberOfStored)
+        {
+            string query = @"exec SP_updateItem @itemName, @numberOfStored";
+            return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _itemName, _numberOfStored });
+        }
 
     }
 }
