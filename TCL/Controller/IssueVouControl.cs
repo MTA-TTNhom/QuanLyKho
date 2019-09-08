@@ -58,5 +58,16 @@ namespace QLKVCGT.Controller
             dt = DataProvider.Instances.ExecuteQuery(query, new object[] { id });
             return dt;
         }
+        public void UpdateBill(int _billId, int _totalPrice)
+        {
+            string query = @"exec SP_updateBill @billId, @totalPrice";
+            DataProvider.Instances.ExecuteQuery(query, new object[] { _billId, _totalPrice });
+        }
+
+        public int DeleteBill(int _billId)
+        {
+            string query = @"exec SP_deleteBill @billId";
+            return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _billId });
+        }
     }
 }
