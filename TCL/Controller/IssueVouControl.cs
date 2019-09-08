@@ -38,5 +38,25 @@ namespace QLKVCGT.Controller
             string query = @"exec SP_insertBill @employeesId, @customerId, @totalPrice";
             return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _employessId, _customerId, _totalPrice });
         }
+        public int InsertBillDetail(int _itemId, int _billId, int _numOfItem)
+        {
+            string query = @"exec SP_insertBillDetail @itemId, @billId, @numOfItem";
+            return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _itemId, _billId, _numOfItem });
+        }
+
+        public DataTable DataSoure_GetMaxBillByEmpId(int _employeesId)//lay ra cai hoa don moi nhat cau nhan vien
+        {
+            string query = @"exec SP_getMaxBillForEmp @employeesId";
+            return DataProvider.Instances.ExecuteQuery(query, new object[] { _employeesId });
+
+        }
+
+        public DataTable DataSource_GetDetailBillByID(int id)
+        {
+            DataTable dt = new DataTable();
+            string query = @"exec SP_getBillDetail @id";
+            dt = DataProvider.Instances.ExecuteQuery(query, new object[] { id });
+            return dt;
+        }
     }
 }
