@@ -667,6 +667,250 @@
             this.printPreviewBarItem27.Id = 33;
             this.printPreviewBarItem27.ImageIndex = 13;
             this.printPreviewBarItem27.Name = "printPreviewBarItem27";
+            // 
+            // printPreviewSubItem1
+            // 
+            this.printPreviewSubItem1.Caption = "&File";
+            this.printPreviewSubItem1.Command = DevExpress.XtraPrinting.PrintingSystemCommand.File;
+            this.printPreviewSubItem1.Id = 34;
+            this.printPreviewSubItem1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem11),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem9),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem10),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem25, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem26),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem27, true)});
+            this.printPreviewSubItem1.Name = "printPreviewSubItem1";
+            // 
+            // printPreviewSubItem2
+            // 
+            this.printPreviewSubItem2.Caption = "&View";
+            this.printPreviewSubItem2.Command = DevExpress.XtraPrinting.PrintingSystemCommand.View;
+            this.printPreviewSubItem2.Id = 35;
+            this.printPreviewSubItem2.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewSubItem4, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barToolbarsListItem1, true)});
+            this.printPreviewSubItem2.Name = "printPreviewSubItem2";
+            // 
+            // printPreviewSubItem3
+            // 
+            this.printPreviewSubItem3.Caption = "&Background";
+            this.printPreviewSubItem3.Command = DevExpress.XtraPrinting.PrintingSystemCommand.Background;
+            this.printPreviewSubItem3.Id = 36;
+            this.printPreviewSubItem3.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem23),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem24)});
+            this.printPreviewSubItem3.Name = "printPreviewSubItem3";
+            // 
+            // printPreviewSubItem4
+            // 
+            this.printPreviewSubItem4.Caption = "&Page Layout";
+            this.printPreviewSubItem4.Command = DevExpress.XtraPrinting.PrintingSystemCommand.PageLayout;
+            this.printPreviewSubItem4.Id = 37;
+            this.printPreviewSubItem4.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem28),
+            new DevExpress.XtraBars.LinkPersistInfo(this.printPreviewBarItem29)});
+            this.printPreviewSubItem4.Name = "printPreviewSubItem4";
+            // 
+            // printPreviewBarItem28
+            // 
+            this.printPreviewBarItem28.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.Check;
+            this.printPreviewBarItem28.Caption = "&Facing";
+            this.printPreviewBarItem28.Command = DevExpress.XtraPrinting.PrintingSystemCommand.PageLayoutFacing;
+            this.printPreviewBarItem28.Enabled = false;
+            this.printPreviewBarItem28.GroupIndex = 100;
+            this.printPreviewBarItem28.Id = 38;
+            this.printPreviewBarItem28.Name = "printPreviewBarItem28";
+            // 
+            // printPreviewBarItem29
+            // 
+            this.printPreviewBarItem29.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.Check;
+            this.printPreviewBarItem29.Caption = "&Continuous";
+            this.printPreviewBarItem29.Command = DevExpress.XtraPrinting.PrintingSystemCommand.PageLayoutContinuous;
+            this.printPreviewBarItem29.Enabled = false;
+            this.printPreviewBarItem29.GroupIndex = 100;
+            this.printPreviewBarItem29.Id = 39;
+            this.printPreviewBarItem29.Name = "printPreviewBarItem29";
+            // 
+            // barToolbarsListItem1
+            // 
+            this.barToolbarsListItem1.Caption = "Bars";
+            this.barToolbarsListItem1.Id = 40;
+            this.barToolbarsListItem1.Name = "barToolbarsListItem1";
+            // 
+            // printPreviewBarCheckItem1
+            // 
+            this.printPreviewBarCheckItem1.BindableChecked = true;
+            this.printPreviewBarCheckItem1.Caption = "PDF File";
+            this.printPreviewBarCheckItem1.Checked = true;
+            this.printPreviewBarCheckItem1.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportPdf;
+            this.printPreviewBarCheckItem1.Enabled = false;
+            this.printPreviewBarCheckItem1.GroupIndex = 2;
+            this.printPreviewBarCheckItem1.Hint = "PDF File";
+            this.printPreviewBarCheckItem1.Id = 41;
+            this.printPreviewBarCheckItem1.Name = "printPreviewBarCheckItem1";
+            // 
+            // printPreviewBarCheckItem2
+            // 
+            this.printPreviewBarCheckItem2.Caption = "HTML File";
+            this.printPreviewBarCheckItem2.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportHtm;
+            this.printPreviewBarCheckItem2.Enabled = false;
+            this.printPreviewBarCheckItem2.GroupIndex = 2;
+            this.printPreviewBarCheckItem2.Hint = "HTML File";
+            this.printPreviewBarCheckItem2.Id = 42;
+            this.printPreviewBarCheckItem2.Name = "printPreviewBarCheckItem2";
+            // 
+            // printPreviewBarCheckItem3
+            // 
+            this.printPreviewBarCheckItem3.Caption = "MHT File";
+            this.printPreviewBarCheckItem3.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportMht;
+            this.printPreviewBarCheckItem3.Enabled = false;
+            this.printPreviewBarCheckItem3.GroupIndex = 2;
+            this.printPreviewBarCheckItem3.Hint = "MHT File";
+            this.printPreviewBarCheckItem3.Id = 43;
+            this.printPreviewBarCheckItem3.Name = "printPreviewBarCheckItem3";
+            // 
+            // printPreviewBarCheckItem4
+            // 
+            this.printPreviewBarCheckItem4.Caption = "RTF File";
+            this.printPreviewBarCheckItem4.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportRtf;
+            this.printPreviewBarCheckItem4.Enabled = false;
+            this.printPreviewBarCheckItem4.GroupIndex = 2;
+            this.printPreviewBarCheckItem4.Hint = "RTF File";
+            this.printPreviewBarCheckItem4.Id = 44;
+            this.printPreviewBarCheckItem4.Name = "printPreviewBarCheckItem4";
+            // 
+            // printPreviewBarCheckItem5
+            // 
+            this.printPreviewBarCheckItem5.Caption = "XLS File";
+            this.printPreviewBarCheckItem5.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportXls;
+            this.printPreviewBarCheckItem5.Enabled = false;
+            this.printPreviewBarCheckItem5.GroupIndex = 2;
+            this.printPreviewBarCheckItem5.Hint = "XLS File";
+            this.printPreviewBarCheckItem5.Id = 45;
+            this.printPreviewBarCheckItem5.Name = "printPreviewBarCheckItem5";
+            // 
+            // printPreviewBarCheckItem6
+            // 
+            this.printPreviewBarCheckItem6.Caption = "XLSX File";
+            this.printPreviewBarCheckItem6.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportXlsx;
+            this.printPreviewBarCheckItem6.Enabled = false;
+            this.printPreviewBarCheckItem6.GroupIndex = 2;
+            this.printPreviewBarCheckItem6.Hint = "XLSX File";
+            this.printPreviewBarCheckItem6.Id = 46;
+            this.printPreviewBarCheckItem6.Name = "printPreviewBarCheckItem6";
+            // 
+            // printPreviewBarCheckItem7
+            // 
+            this.printPreviewBarCheckItem7.Caption = "CSV File";
+            this.printPreviewBarCheckItem7.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportCsv;
+            this.printPreviewBarCheckItem7.Enabled = false;
+            this.printPreviewBarCheckItem7.GroupIndex = 2;
+            this.printPreviewBarCheckItem7.Hint = "CSV File";
+            this.printPreviewBarCheckItem7.Id = 47;
+            this.printPreviewBarCheckItem7.Name = "printPreviewBarCheckItem7";
+            // 
+            // printPreviewBarCheckItem8
+            // 
+            this.printPreviewBarCheckItem8.Caption = "Text File";
+            this.printPreviewBarCheckItem8.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportTxt;
+            this.printPreviewBarCheckItem8.Enabled = false;
+            this.printPreviewBarCheckItem8.GroupIndex = 2;
+            this.printPreviewBarCheckItem8.Hint = "Text File";
+            this.printPreviewBarCheckItem8.Id = 48;
+            this.printPreviewBarCheckItem8.Name = "printPreviewBarCheckItem8";
+            // 
+            // printPreviewBarCheckItem9
+            // 
+            this.printPreviewBarCheckItem9.Caption = "Image File";
+            this.printPreviewBarCheckItem9.Command = DevExpress.XtraPrinting.PrintingSystemCommand.ExportGraphic;
+            this.printPreviewBarCheckItem9.Enabled = false;
+            this.printPreviewBarCheckItem9.GroupIndex = 2;
+            this.printPreviewBarCheckItem9.Hint = "Image File";
+            this.printPreviewBarCheckItem9.Id = 49;
+            this.printPreviewBarCheckItem9.Name = "printPreviewBarCheckItem9";
+            // 
+            // printPreviewBarCheckItem10
+            // 
+            this.printPreviewBarCheckItem10.BindableChecked = true;
+            this.printPreviewBarCheckItem10.Caption = "PDF File";
+            this.printPreviewBarCheckItem10.Checked = true;
+            this.printPreviewBarCheckItem10.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendPdf;
+            this.printPreviewBarCheckItem10.Enabled = false;
+            this.printPreviewBarCheckItem10.GroupIndex = 1;
+            this.printPreviewBarCheckItem10.Hint = "PDF File";
+            this.printPreviewBarCheckItem10.Id = 50;
+            this.printPreviewBarCheckItem10.Name = "printPreviewBarCheckItem10";
+            // 
+            // printPreviewBarCheckItem11
+            // 
+            this.printPreviewBarCheckItem11.Caption = "MHT File";
+            this.printPreviewBarCheckItem11.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendMht;
+            this.printPreviewBarCheckItem11.Enabled = false;
+            this.printPreviewBarCheckItem11.GroupIndex = 1;
+            this.printPreviewBarCheckItem11.Hint = "MHT File";
+            this.printPreviewBarCheckItem11.Id = 51;
+            this.printPreviewBarCheckItem11.Name = "printPreviewBarCheckItem11";
+            // 
+            // printPreviewBarCheckItem12
+            // 
+            this.printPreviewBarCheckItem12.Caption = "RTF File";
+            this.printPreviewBarCheckItem12.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendRtf;
+            this.printPreviewBarCheckItem12.Enabled = false;
+            this.printPreviewBarCheckItem12.GroupIndex = 1;
+            this.printPreviewBarCheckItem12.Hint = "RTF File";
+            this.printPreviewBarCheckItem12.Id = 52;
+            this.printPreviewBarCheckItem12.Name = "printPreviewBarCheckItem12";
+            // 
+            // printPreviewBarCheckItem13
+            // 
+            this.printPreviewBarCheckItem13.Caption = "XLS File";
+            this.printPreviewBarCheckItem13.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendXls;
+            this.printPreviewBarCheckItem13.Enabled = false;
+            this.printPreviewBarCheckItem13.GroupIndex = 1;
+            this.printPreviewBarCheckItem13.Hint = "XLS File";
+            this.printPreviewBarCheckItem13.Id = 53;
+            this.printPreviewBarCheckItem13.Name = "printPreviewBarCheckItem13";
+            // 
+            // printPreviewBarCheckItem14
+            // 
+            this.printPreviewBarCheckItem14.Caption = "XLSX File";
+            this.printPreviewBarCheckItem14.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendXlsx;
+            this.printPreviewBarCheckItem14.Enabled = false;
+            this.printPreviewBarCheckItem14.GroupIndex = 1;
+            this.printPreviewBarCheckItem14.Hint = "XLSX File";
+            this.printPreviewBarCheckItem14.Id = 54;
+            this.printPreviewBarCheckItem14.Name = "printPreviewBarCheckItem14";
+            // 
+            // printPreviewBarCheckItem15
+            // 
+            this.printPreviewBarCheckItem15.Caption = "CSV File";
+            this.printPreviewBarCheckItem15.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendCsv;
+            this.printPreviewBarCheckItem15.Enabled = false;
+            this.printPreviewBarCheckItem15.GroupIndex = 1;
+            this.printPreviewBarCheckItem15.Hint = "CSV File";
+            this.printPreviewBarCheckItem15.Id = 55;
+            this.printPreviewBarCheckItem15.Name = "printPreviewBarCheckItem15";
+            // 
+            // printPreviewBarCheckItem16
+            // 
+            this.printPreviewBarCheckItem16.Caption = "Text File";
+            this.printPreviewBarCheckItem16.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendTxt;
+            this.printPreviewBarCheckItem16.Enabled = false;
+            this.printPreviewBarCheckItem16.GroupIndex = 1;
+            this.printPreviewBarCheckItem16.Hint = "Text File";
+            this.printPreviewBarCheckItem16.Id = 56;
+            this.printPreviewBarCheckItem16.Name = "printPreviewBarCheckItem16";
+            // 
+            // printPreviewBarCheckItem17
+            // 
+            this.printPreviewBarCheckItem17.Caption = "Image File";
+            this.printPreviewBarCheckItem17.Command = DevExpress.XtraPrinting.PrintingSystemCommand.SendGraphic;
+            this.printPreviewBarCheckItem17.Enabled = false;
+            this.printPreviewBarCheckItem17.GroupIndex = 1;
+            this.printPreviewBarCheckItem17.Hint = "Image File";
+            this.printPreviewBarCheckItem17.Id = 57;
+            this.printPreviewBarCheckItem17.Name = "printPreviewBarCheckItem17";
 
         }
 
