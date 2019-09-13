@@ -1,4 +1,4 @@
-﻿namespace QLKVCGT.GUI
+﻿namespace TCL.GUI
 {
     partial class Employees_Store
     {
