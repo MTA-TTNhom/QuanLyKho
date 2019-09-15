@@ -96,5 +96,80 @@ namespace TCL.GUI
             Clear();
 
         }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            btnAdd.Enabled = false;
+            btnCancel.Enabled = false;
+            int EmployeesID = 0;
+            string EmployeesName = "";
+            string UserName = "";
+            //int Sex = Convert.ToInt32(tbSex.Text.Trim(' '));
+            string Phone = "";
+            string Country = "";
+            DateTime DateOfBirth = DateTime.Now;
+            float Salary = 0;
+            //try
+            //{
+
+            EmployeesName = tbEmployeesName.Text.Trim(' ');
+            UserName = tbUserName.Text.Trim(' ');
+            //Sex = Convert.ToInt32(tbSex.Text.Trim(' '));
+            Phone = tbPhone.Text.Trim(' ');
+            Country = tbCountry.Text.Trim(' ');
+            DateOfBirth = dtpkDateOfBirth.Value;
+            Salary = (float)Convert.ToDouble(tbSalary.Text.Trim(' '));
+            //}
+            // catch
+            {
+                MessageBox.Show("Vui lòng kiểm tra lại thông tin mặt hàng nhập vào!");
+
+            }
+
+            if (action == 1)//add
+            {
+                EmployeesControl.Instance.InsertEmployees(EmployeesName, UserName, Phone, Country, DateOfBirth, Salary);
+            }
+            if (action == 2)//update
+            {
+                EmployeesID = Convert.ToInt32(tbEmployeesID.Text.Trim(' '));
+                EmployeesControl.Instance.UpdateEmployees(EmployeesID, Salary);
+            }
+            if (action == 3)//delete
+            {
+                EmployeesID = Convert.ToInt32(tbEmployeesID.Text.Trim(' '));
+                EmployeesControl.Instance.DeleteEmployees(EmployeesID);
+            }
+            EnabledBtn(true);
+            Employees_Store_Load(sender, e);
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            DialogResult dr = MessageBox.Show("Bạn thực sự muốn hủy?", "Xác nhận", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if (dr == DialogResult.OK)
+            {
+                Employees_Store_Load(sender, e);
+            }
+            EnabledBtn(true);
+
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            action = 2;
+            binding();
+            EnabledBtn(false);
+            ReadOnly(true);
+            tbSalary.ReadOnly = false;
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            action = 3;
+            EnabledBtn(false);
+            ReadOnly(false);
+            EnabledBtn(false);
+        }
     }
 }
