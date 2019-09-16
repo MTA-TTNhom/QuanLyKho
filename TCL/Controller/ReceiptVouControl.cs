@@ -42,5 +42,31 @@ namespace TCL.Controller
             string query = @"exec SP_insertBillInDetail @itemId, @billId, @numOfItem";
             return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _itemId, _billId, _numOfItem });
         }
+        public DataTable DataSoure_GetMaxBillByEmpId(int _employeesId)//lay ra cai hoa don moi nhat cau nhan vien
+        {
+            string query = @"exec SP_getMaxBillInForEmp @employeesId";
+            return DataProvider.Instances.ExecuteQuery(query, new object[] { _employeesId });
+
+        }
+
+        public DataTable DataSource_GetDetailBillByID(int id)
+        {
+            DataTable dt = new DataTable();
+            string query = @"exec SP_getBillInDetail @id";
+            dt = DataProvider.Instances.ExecuteQuery(query, new object[] { id });
+            return dt;
+        }
+
+        public void UpdateBill(int _billId, int _totalPrice)
+        {
+            string query = @"exec SP_updateBillIn @billId, @totalPrice";
+            DataProvider.Instances.ExecuteQuery(query, new object[] { _billId, _totalPrice });
+        }
+
+        public int DeleteBill(int _billId)
+        {
+            string query = @"exec SP_deleteBillIn @billId";
+            return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _billId });
+        }
     }
 }
