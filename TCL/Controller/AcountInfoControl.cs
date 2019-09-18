@@ -25,6 +25,10 @@ namespace TCL.Controller
 
                     instance = new AcountInfoControl();
 
+                if (instance == null)
+
+                    instance = new AcountInfoControl();
+
                 return instance;
             }
 
@@ -50,7 +54,9 @@ namespace TCL.Controller
 
             string query = @"exec SP_getEmployeesByID @id";
 
-            dt = DataProvider.Instances.ExecuteQuery(query, new object[] { id });
+            if (instance == null)
+
+                instance = new AcountInfoControl();
 
             return dt;
         }
@@ -65,11 +71,13 @@ namespace TCL.Controller
 
             {
                 return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _id, _dateOfBirth, _sex, _userName, _country, _telephoneNumber });
+                return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _id, _dateOfBirth, _sex, _userName, _country, _telephoneNumber });
             }
 
             catch
             {
 
+                MessageBox.Show("sai");
                 MessageBox.Show("sai");
                 return 0;
             }
