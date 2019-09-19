@@ -45,6 +45,7 @@ namespace QLKVCGT.Controller
         {
 
             string query = @"exec SP_getCustomer";
+            string query = @"exec SP_getCustomeer";
             return DataProvider.Instances.ExecuteQuery(query, new object[] { });
 
         }
@@ -53,6 +54,8 @@ namespace QLKVCGT.Controller
         {
 
             string query = @"exec SP_getCustomerByIdCus @id";
+            string query = @"exec SP_getCustomerByIdCuser @id";
+
 
             return DataProvider.Instances.ExecuteQuery(query, new object[] { id });
 
