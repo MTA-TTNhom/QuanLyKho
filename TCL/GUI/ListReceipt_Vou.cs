@@ -79,5 +79,10 @@ namespace TCL
             int numOfBill = int.Parse(dgvBillView.GetFocusedRowCellValue("Số phiếu nhập").ToString());
             dgvBillDetail.DataSource = ReceiptVouControl.Instance.DataSource_GetDetailBillByID(numOfBill);
         }
+
+        private void ListReceipt_Vou_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
