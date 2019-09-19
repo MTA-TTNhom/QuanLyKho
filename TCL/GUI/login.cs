@@ -16,5 +16,24 @@ namespace TCL.GUI
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            /*indexdsa
+             * cho nay de check login 
+             * dsdsa*/
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+
+            BonusSkins.Register();
+            SkinManager.EnableFormSkins();
+            Application.Run(new LOGIN());
+            //Application.Run(new Form1());
+        }
+    }
     }
 }
