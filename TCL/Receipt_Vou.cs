@@ -316,6 +316,99 @@ namespace TCL
             gctBill.DataSource = dt;
             //  MessageBox.Show(dt.Rows[0]["itemId"].ToString());
         }
+        private void InsertBill()
+        {
+            try
+            {
+                ReceiptVouControl.Instance.InsertBill(employeesId, Convert.ToInt32(tbSupplierID.Text.Trim(' ')), 0);
+            }
+            catch
+            {
+                MessageBox.Show("Lỗi rồi em ơi!");
+            }
+        }
 
+        private void InsertBillDetail()
+        {
+            try
+            {
+
+                foreach (var item in listBillDetail)
+                {
+                    ReceiptVouControl.Instance.InsertBillDetail(item.IdItem, item.IdBill, item.NumOfItem);
+                }
+            }
+            catch
+            {
+                //MessageBox.Show("Bạn");
+            }
+        }
+        private int getMaxBill()
+        {
+            try
+            {
+                return Convert.ToInt32(ReceiptVouControl.Instance.DataSoure_GetMaxBillByEmpId(employeesId).Rows[0]["Số hóa đơn MAX"].ToString());
+            }
+            catch
+            {
+                MessageBox.Show("Lỗi rồi thưa Boss!");
+                return 0;
+            }
+        }
+
+        private void UpdateBill()
+        {
+            try
+            {
+                ReceiptVouControl.Instance.UpdateBill(getMaxBill(), Convert.ToInt32(tbTotalPriceBill.Text));
+            }
+            catch
+            {
+                MessageBox.Show("Lỗi rồi thưa đại ca!");
+            }
+        }
+
+        private void btnAddSupplier_Click(object sender, EventArgs e)
+        {
+            if (tbSupplierName.Text.Trim(' ') == "")
+            {
+                string text = "Mã nhà cung cấp không tồn tại! \n Vui lòng kiểm tra lại!";
+                MessageBox.Show(text, "Thông báo");
+                Reciept_Vou_Load(sender, e);
+            }
+            else
+            {
+                btnAddSupplier.Enabled = false;
+                btnCancelSupplier.Enabled = false;
+                btnAddItem.Enabled = true;
+                InsertBill();
+
+            }
+        }
+
+        private void btnCancelSupplier_Click(object sender, EventArgs e)
+        {
+            Reciept_Vou_Load(sender, e);
+            tbSupplierName.Clear();
+            tbSupplierID.Clear();
+        }
+
+        private void tbSupplierName_TextChanged(object sender, EventArgs e)
+        {
+            tbSupplierID.Clear();
+            try
+            {
+                DataTable dt = SupplierControl.Instance.DataSource_GetSupplierByName(tbSupplierName.Text.Trim(' '));
+                tbSupplierID.Text = dt.Rows[0]["Mã"].ToString();
+
+            }
+            catch { }
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            InsertBillDetail();
+            UpdateBill();
+        }
     }
 }
