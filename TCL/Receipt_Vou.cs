@@ -149,6 +149,173 @@ namespace TCL
             EnableBtnItem(false);
             tbItemID.ReadOnly = true;
         }
+        private void btnSaveItem_Click(object sender, EventArgs e)
+        {
+            if (action == 1) //add
+            {
+                string ItemID = tbItemID.Text.Trim(' ');
+                if (ItemID == "")
+                {
+                    MessageBox.Show(" mặt hàng không tồn tại! \n Vui lòng kiểm tra lại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                addItemToList();
+            }
+
+            if (action == 2)//update
+            {
+                foreach (var item in listBillDetail)
+                {
+                    if (item.IdItem == Convert.ToInt32(tbItemID.Text))
+                    {
+                        item.NumOfItem = (int)nudNumOfItem.Value;
+
+                        item.TotalPriceItem = Convert.ToInt32(tbTotalPriceItem.Text);
+                    }
+                }
+            }
+            if (action == 3)//delete
+            {
+                int i = 0;
+                foreach (var item in listBillDetail)
+                {
+
+                    if (item.IdItem == Convert.ToInt32(tbItemID.Text))
+                    {
+                        listBillDetail.RemoveAt(i);
+                        break;
+                    }
+                    i++;
+                }
+            }
+            addItemToDgv();
+            EnableBtnItem(true);
+
+        }
+
+        private void btnCancelItem_Click(object sender, EventArgs e)
+        {
+            clear();
+            EnableBtnItem(true);
+        }
+
+        private void tbItemID_TextChanged(object sender, EventArgs e)
+        {
+            if (tbItemID.Text.Trim(' ') != "")
+            {
+                tbItemName.Clear();
+                int _idItem = Convert.ToInt32(tbItemID.Text.Trim(' '));
+                getItemInfo(_idItem);
+            }
+
+        }
+        private void nudNumOfItem_Enter(object sender, EventArgs e)
+        {
+            //string ItemName = tbItemName.Text.Trim(' ');
+            //if (ItemName == "")
+            //{
+            //    MessageBox.Show("Mã mặt hàng không tồn tại! \n Vui lòng kiểm tra lại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            //}
+        }
+
+        private void nudNumOfItem_ValueChanged(object sender, EventArgs e)
+        {
+            DataTable dt = ItemControl.Instance.DataSource_GetItem();
+            foreach (DataRow item in dt.Rows)
+            {
+                if (item["Mã"].ToString() == tbItemID.Text) MessageBox.Show("LOL");
+                if ((int)nudNumOfItem.Value > Convert.ToInt32(item["Tồn kho"].ToString()) && item["Mã"].ToString() == tbItemID.Text.Trim(' '))
+                {
+                    MessageBox.Show("Không đủ hàng!");
+                    return;
+                }
+            }
+            getTotalPriceOnceItem();
+        }
+
+        ////////////
+        //private void getNameSupplier(int _idSupplier)
+        //{
+        //    try
+        //    {
+        //        DataTable dt = SupplierControl.Instance.DataSource_getSupplierByIdSup(_idSupplier);
+        //        tbSupplierName.Text = dt.Rows[0]["Tên khách hàng"].ToString();
+        //    }
+        //    catch { }
+        //}
+
+        private void getItemInfo(int _idItem)
+        {
+            try
+            {
+                DataTable dt = ItemControl.Instance.DataSource_GetItemByIdItem(_idItem);
+                tbItemName.Text = dt.Rows[0]["Tên"].ToString();
+                tbPriceOnceItem.Text = dt.Rows[0]["Giá hàng"].ToString();
+                tbTotalPriceItem.Text = dt.Rows[0]["Giá hàng"].ToString();
+
+            }
+            catch { }
+        }
+
+
+        private void getTotalPriceOnceItem()
+        {
+
+            int price = Convert.ToInt32(tbPriceOnceItem.Text);
+            int number = (int)nudNumOfItem.Value;
+            int totalPrice = (int)(float)(price * number);
+            tbTotalPriceItem.Text = totalPrice.ToString();
+        }
+        private void addItemToList()
+        {
+            int flag = 0;
+            int idBill = getMaxBill();
+            int idItem = Convert.ToInt32(tbItemID.Text.Trim(' '));
+            string name = tbItemName.Text.Trim(' ');
+            int price = Convert.ToInt32(tbPriceOnceItem.Text.Trim(' '));
+            int number = (int)nudNumOfItem.Value;
+
+            int totalPriceItem = Convert.ToInt32(tbTotalPriceItem.Text.Trim(' '));
+            ReceiptVouDetailMod bill = new ReceiptVouDetailMod(idBill, idItem, name, price, number);
+            foreach (var item in listBillDetail)
+            {
+                if (idItem == item.IdItem)
+                {
+                    item.NumOfItem += number;
+                    item.TotalPriceItem += totalPriceItem;
+                    flag = 1;
+                    break;
+                }
+            }
+            if (flag == 0) listBillDetail.Add(bill);
+        }
+
+        private void addItemToDgv()
+        {
+            int totalPriceOfBill = 0;
+
+            DataTable dt = new DataTable();
+            dt.Columns.Add("itemId");
+            dt.Columns.Add("itemName");
+            dt.Columns.Add("price");
+            dt.Columns.Add("numOfItem");
+            dt.Columns.Add("totalPriceOfItem");
+
+            foreach (ReceiptVouDetailMod item in listBillDetail)
+            {
+                totalPriceOfBill += item.TotalPriceItem;
+                DataRow row = dt.NewRow();
+                row["itemId"] = item.IdItem;
+                row["itemName"] = item.ItemName;
+                row["price"] = item.PriceItem;
+                row["numOfItem"] = item.NumOfItem;
+                row["totalPriceOfItem"] = item.TotalPriceItem;
+                dt.Rows.Add(row);
+            }
+            tbTotalPriceBill.Text = totalPriceOfBill.ToString();
+            gctBill.DataSource = dt;
+            //  MessageBox.Show(dt.Rows[0]["itemId"].ToString());
+        }
 
     }
 }
