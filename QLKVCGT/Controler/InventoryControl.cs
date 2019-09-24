@@ -15,11 +15,7 @@ namespace QLKVCGT.Controler
         private InventoryControl() { }
 
         ///vai thống kê nho nhỏ
-        public DataTable DataSource_getMaxStored()
-        {
-            string query = @"exec SP_getMaxStored ";
-            return DataProvider.Instances.ExecuteQuery(query, new object[] { });
-        }
+        
         public DataTable DataSource_getMinStored()
         {
             string query = @"exec SP_getMinStored ";
