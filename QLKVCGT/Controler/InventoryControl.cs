@@ -18,10 +18,6 @@ namespace QLKVCGT.Controler
         
         
         
-        public DataTable DataSource_getItemForBuy()
-        {
-            string query = @"exec SP_getItemForBuy ";
-            return DataProvider.Instances.ExecuteQuery(query, new object[] { });
-        }
+        
     }
 }
