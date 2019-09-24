@@ -16,11 +16,7 @@ namespace QLKVCGT.Controler
 
         ///vai thống kê nho nhỏ
         
-        public DataTable DataSource_getMinStored()
-        {
-            string query = @"exec SP_getMinStored ";
-            return DataProvider.Instances.ExecuteQuery(query, new object[] { });
-        }
+        
         public DataTable DataSource_getTotalPriceStored()
         {
             string query = @"exec SP_getTotalPriceStored";
