@@ -18,12 +18,7 @@ namespace QLKVCGT.Controler
 
         
 
-        public DataTable DataSoure_GetMaxBillByEmpId(int _employeesId)//lay ra cai hoa don moi nhat cau nhan vien
-        {
-            string query = @"exec SP_getMaxBillForEmp @employeesId";
-            return DataProvider.Instances.ExecuteQuery(query, new object[] { _employeesId });
-
-        }
+        
 
         public DataTable DataSource_GetDetailBillByID(int id)
         {
