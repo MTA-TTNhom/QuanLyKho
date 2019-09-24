@@ -14,12 +14,7 @@ namespace QLKVCGT.Controler
         
        
         
-        public int InsertBill(int _employessId, string _customerId, int _totalPrice)
-        {
-            string query = @"exec SP_insertBill @employeesId, @customerId, @totalPrice";
-            return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _employessId, _customerId, _totalPrice });
-        }
-
+        
 
         public int InsertBillDetail(int _itemId, int _billId, int _numOfItem)
         {
