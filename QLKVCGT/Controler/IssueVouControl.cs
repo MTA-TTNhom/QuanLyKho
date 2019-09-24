@@ -22,11 +22,7 @@ namespace QLKVCGT.Controler
 
         
 
-        public void UpdateBill(int _billId, int _totalPrice)
-        {
-            string query = @"exec SP_updateBill @billId, @totalPrice";
-            DataProvider.Instances.ExecuteQuery(query, new object[] { _billId, _totalPrice });
-        }
+        
 
         public int DeleteBill(int _billId)
         {
