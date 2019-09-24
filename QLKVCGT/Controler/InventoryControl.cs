@@ -11,20 +11,7 @@ namespace QLKVCGT.Controler
     {
         private static InventoryControl instance;
 
-        public static InventoryControl Instance
-        {
-            get
-            {
-                if (instance == null)
-                    instance = new InventoryControl();
-                return instance;
-            }
-
-            private set
-            {
-                instance = value;
-            }
-        }
+        
         private InventoryControl() { }
 
         ///vai thống kê nho nhỏ
