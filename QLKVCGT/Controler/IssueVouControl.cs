@@ -20,13 +20,7 @@ namespace QLKVCGT.Controler
 
         
 
-        public DataTable DataSource_GetDetailBillByID(int id)
-        {
-            DataTable dt = new DataTable();
-            string query = @"exec SP_getBillDetail @id";
-            dt = DataProvider.Instances.ExecuteQuery(query, new object[] { id });
-            return dt;
-        }
+        
 
         public void UpdateBill(int _billId, int _totalPrice)
         {
