@@ -16,11 +16,7 @@ namespace QLKVCGT.Controler
         
         
 
-        public int InsertBillDetail(int _itemId, int _billId, int _numOfItem)
-        {
-            string query = @"exec SP_insertBillDetail @itemId, @billId, @numOfItem";
-            return DataProvider.Instances.ExecuteNonQuery(query, new object[] { _itemId, _billId, _numOfItem});
-        }
+        
 
         public DataTable DataSoure_GetMaxBillByEmpId(int _employeesId)//lay ra cai hoa don moi nhat cau nhan vien
         {
