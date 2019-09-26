@@ -11,20 +11,7 @@ namespace QLKVCGT.Controler
     {
         private static CustomerControl instance;
 
-        public static CustomerControl Instance
-        {
-            get
-            {
-                if (instance == null)
-                    instance = new CustomerControl();
-                return instance;
-            }
-
-            private set
-            {
-                instance = value;
-            }
-        }
+        
         private CustomerControl()
         {
         }
