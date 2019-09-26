@@ -12,10 +12,7 @@ namespace QLKVCGT.Controler
         private static CustomerControl instance;
 
         
-        private CustomerControl()
-        {
-        }
-
+        
         public DataTable DataSource_getCustomer()
         {
             string query = @"exec SP_getCustomer";
