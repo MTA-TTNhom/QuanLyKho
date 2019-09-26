@@ -10,10 +10,7 @@ namespace QLKVCGT.Controler
 {
     class AcountInfoControl
     {
-        private static AcountInfoControl instance;
-
         
-        private AcountInfoControl() { }
 
         public DataTable DataSource_GetEmployeesByID(int id)
         {
