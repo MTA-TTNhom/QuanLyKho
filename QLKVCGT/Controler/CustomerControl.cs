@@ -9,15 +9,6 @@ namespace QLKVCGT.Controler
 {
     class CustomerControl
     {
-        private static CustomerControl instance;
-
-        
-        
-        
-        public DataTable DataSource_getCustomerByIdCus(int id)
-        {
-            string query = @"exec SP_getCustomerByIdCus @id";
-            return DataProvider.Instances.ExecuteQuery(query, new object[] { id });
-        }
+       
     }
 }
