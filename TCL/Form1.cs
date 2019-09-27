@@ -217,5 +217,21 @@ namespace TCL.GUI
             if (result == DialogResult.OK)
                 Application.Exit();
         }
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnList_ReceiptVou_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            ListReceipt_Vou info = new ListReceipt_Vou();
+            showFormChild(info);
+        }
+
+        private void btnList_IssueVou_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            ListIssue_Vou info = new ListIssue_Vou();
+            showFormChild(info);
+        }
     }
 }
