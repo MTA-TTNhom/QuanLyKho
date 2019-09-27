@@ -86,6 +86,60 @@ namespace TCL.GUI
             rpgStock.Visible = e;
 
         }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            load(typeOfEmployees);
+        }
+
+        private void EnabledBtn(bool e)
+        {
+            btnAcountInfo.Enabled = e;
+            btnLogout.Enabled = e;
+            btnPrivilege.Enabled = e;
+        }
+
+        private void load(int _type)
+        {
+
+
+            VisibleRpg(false);
+
+            if (_type == 0)
+            {
+                rpgStock.Visible = true;
+
+            }
+            if (_type == 1)
+            {
+                rpgEmployees.Visible = true;
+            }
+        }
+        ///showfromChild
+        ///
+        private void showFormChild(Form f)
+        {
+            if (!isOpened(f))
+            {
+                f.MdiParent = this;
+                f.Show();
+            }
+        }
+        private bool isOpened(Form f)
+        {
+            bool isOpened = false;
+            if (MdiChildren.Count() > 0)
+            {
+                foreach (var item in MdiChildren)
+                {
+                    if (f.Name == item.Name)
+                    {
+                        xtmm.Pages[item].MdiChild.Activate();
+                        isOpened = true;
+                    }
+                }
+            }
+            return isOpened;
+        }
 
     }
 }
