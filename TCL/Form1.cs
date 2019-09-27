@@ -181,6 +181,41 @@ namespace TCL.GUI
             info.init(idEmployees);
             showFormChild(info);
         }
+        private void btnItem_Store_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            Item_Store info = new Item_Store();
+            info.init(typeOfEmployees, idEmployees);
+            showFormChild(info);
+        }
 
+        private void btnCustormer_Store_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            Customer_Store info = new Customer_Store();
+            showFormChild(info);
+        }
+
+        private void btnSupplier_Store_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            Supplier_Store info = new Supplier_Store();
+            showFormChild(info);
+        }
+
+        private void btnInventory_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            Inventory info = new Inventory();
+            showFormChild(info);
+        }
+
+        private void btnStatistical_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void btnLogout_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có thực sự muốn đăng xuất?", "Xác minh", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if (result == DialogResult.OK)
+                Application.Exit();
+        }
     }
 }
