@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TCL
 {
-    public partial class Receipt_Vou : Form
+    public partial class Supplier_Store : Form
     {
-        public Receipt_Vou()
+        public Supplier_Store()
         {
             InitializeComponent();
         }

@@ -1,4 +1,4 @@
-﻿namespace TCL
+﻿namespace QLKVCGT.GUI
 {
     partial class ChangePass
     {
