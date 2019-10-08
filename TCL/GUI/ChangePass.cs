@@ -13,6 +13,9 @@ namespace QLKVCGT.GUI
 {
     public partial class ChangePass : DevExpress.XtraEditors.XtraForm
     {
+        /// <summary>
+        /// </summary>
+        /// 
         private int id;
         private string oldPass;
         public ChangePass()
