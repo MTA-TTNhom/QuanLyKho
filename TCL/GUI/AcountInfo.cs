@@ -12,11 +12,6 @@ namespace TCL.GUI
 {
     public partial class AcountInfo : Form
     {
-        public AcountInfo()
-        {
-            InitializeComponent();
-        }
-
         private int id;
         private string pass;
         public AcountInfo()
@@ -114,5 +109,7 @@ namespace TCL.GUI
         {
             load();
         }
+
+
     }
 }
