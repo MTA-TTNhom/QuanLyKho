@@ -1075,39 +1075,7 @@ namespace TCL
             {
                 MessageBox.Show("Thành công!");
             }
-            load();
-        }
-
-        private void btnCancel_Click(object sender, EventArgs e)
-        {
-            load();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-
-            BonusSkins.Register();
-            SkinManager.EnableFormSkins();
-            Application.Run(new LOGIN());
-            //Application.Run(new Form1());
-        }
-		
-        private void EnabledBtn(bool e)
-        {
-            btnAddCustomer.Enabled = e;
-            btnCancelCustomer.Enabled = e;
-
-            btnAddItem.Enabled = e;
-            btnDeleteItem.Enabled = e;
-            btnEditItem.Enabled = e;
-            btnCancelItem.Enabled = e;
-            btnSaveItem.Enabled = e;
-
-            btnPrintBill.Enabled = e;
-            btnCancelBill.Enabled = e;
-        }
+       
         private void EnableBtnItem(bool e)
         {
             btnAddItem.Enabled = e;
