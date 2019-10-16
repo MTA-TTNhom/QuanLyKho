@@ -1085,45 +1085,4 @@ namespace TCL
             btnCancelItem.Enabled = !e;
 
         }
-        private void ReadOnly(bool e)
-        {
-            tbCustomerID.ReadOnly = e;
-            tbCustomerName.ReadOnly = e;
-
-            tbItemID.ReadOnly = e;
-            tbItemName.ReadOnly = e;
-            nudNumOfItem.ReadOnly = e;
-            tbPriceOnceItem.ReadOnly = e;
-            tbTotalPriceItem.ReadOnly = e;
-
-            tbTotalPriceBill.ReadOnly = e;
-            tbCustomerGive.ReadOnly = e;
-            tbEmployeesGive.ReadOnly = e;
-        }
-        private void clear()
-        {
-            tbItemID.Clear();
-            nudNumOfItem.Value = 1;
-            tbItemName.Clear();
-            tbPriceOnceItem.Clear();
-            tbTotalPriceItem.Clear();
-        }
-        private void binding()
-        {
-            try
-            {
-                tbItemID.DataBindings.Clear();
-                tbItemID.DataBindings.Add("Text", gctBill.DataSource, "itemId");
-                tbItemName.DataBindings.Clear();
-                tbItemName.DataBindings.Add("Text", gctBill.DataSource, "itemName");
-                nudNumOfItem.DataBindings.Clear();
-                nudNumOfItem.DataBindings.Add("Text", gctBill.DataSource, "numOfItem");
-                tbPriceOnceItem.DataBindings.Clear();
-                tbPriceOnceItem.DataBindings.Add("Text", gctBill.DataSource, "price");
-                tbTotalPriceItem.DataBindings.Clear();
-                tbTotalPriceItem.DataBindings.Add("Text", gctBill.DataSource, "totalPrice");
-            }
-            catch { }
-        }
-    }
-}
+        priv
