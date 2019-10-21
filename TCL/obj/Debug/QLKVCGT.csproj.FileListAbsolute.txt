@@ -7,3 +7,4 @@ D:\ttnhom\QuanLyKho\TCL\obj\Debug\QLKVCGT.csproj.GenerateResource.cache
 D:\ttnhom\QuanLyKho\TCL\obj\Debug\QLKVCGT.csproj.CoreCompileInputs.cache
 D:\ttnhom\QuanLyKho\TCL\obj\Debug\TCL.exe
 D:\ttnhom\QuanLyKho\TCL\obj\Debug\TCL.pdb
+C:\Users\TRONG LONG\Documents\Github\QuanLyKho\TCL\bin\Debug\TCL.exe.config
