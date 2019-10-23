@@ -52,6 +52,7 @@
     <Compile Include="Controller\CustomerControl.cs" />
     <Compile Include="Controller\DataProvider.cs" />
     <Compile Include="Controller\EmployeesControl.cs" />
+    <Compile Include="Controller\InventoryControl.cs" />
     <Compile Include="GUI\AcountInfo.cs">
       <SubType>Form</SubType>
     </Compile>
