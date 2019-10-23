@@ -50,6 +50,7 @@
     <Compile Include="Controller\AcountInfoControl.cs" />
     <Compile Include="Controller\ChangePassControl.cs.cs" />
     <Compile Include="Controller\CustomerControl.cs" />
+    <Compile Include="Controller\DataProvider.cs" />
     <Compile Include="GUI\AcountInfo.cs">
       <SubType>Form</SubType>
     </Compile>
