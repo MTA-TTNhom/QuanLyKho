@@ -51,6 +51,7 @@
     <Compile Include="Controller\ChangePassControl.cs.cs" />
     <Compile Include="Controller\CustomerControl.cs" />
     <Compile Include="Controller\DataProvider.cs" />
+    <Compile Include="Controller\EmployeesControl.cs" />
     <Compile Include="GUI\AcountInfo.cs">
       <SubType>Form</SubType>
     </Compile>
