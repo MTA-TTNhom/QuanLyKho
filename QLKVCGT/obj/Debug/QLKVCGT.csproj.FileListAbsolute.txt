@@ -1,0 +1,1405 @@
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\QLKVCGT.exe
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\QLKVCGT.pdb
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v16.1.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v16.1.xml
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe
+E:\Assembly\Hoc Assembly\TCL\QLKVCGT\obj\Debug\QLKVCGT.pdb
+F:\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe
+F:\TCL\QLKVCGT\obj\Debug\QLKVCGT.pdb
+F:\TCL\QLKVCGT\bin\Debug\QLKVCGT.exe
+F:\TCL\QLKVCGT\bin\Debug\QLKVCGT.pdb
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v16.1.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v16.1.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v16.1.xml
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.xml
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v16.1.xml
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+F:\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+F:\TCL\QLKVCGT\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\TCL\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+F:\TCL\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+F:\TCL\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+F:\TCL\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+F:\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.pdb
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\QLKVCGT.exe
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\QLKVCGT.pdb
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Office.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Office.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.AcountInfo.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListBill.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.AddBill.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Customer_Store.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Employees_Store.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Facility_Store.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Item_Store.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ChangePass.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Bill.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Print.resources
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Xpo.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.CodeParser.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Xpo.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.UI.dll
+E:\CODE\C#\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.UI.xml
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Login.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ThongKe.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ThongKeCuaKhuVuccs.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.LOGIN.resources
+E:\CODE\C#\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.AddCustomer.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.pdb
+D:\Desktop\TCL\QLKVCGT\bin\Debug\QLKVCGT.exe
+D:\Desktop\TCL\QLKVCGT\bin\Debug\QLKVCGT.pdb
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.CodeParser.v16.1.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Xpo.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.UI.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.AcountInfo.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.AddBill.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.AddCustomer.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Bill.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ChangePass.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Customer_Store.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Employees_Store.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Facility_Store.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Item_Store.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListBill.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Login.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Print.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ThongKe.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ThongKeCuaKhuVuccs.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.LOGIN.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+D:\Desktop\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.AcountInfo.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Bill.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ChangePass.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Customer_Store.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Employees_Store.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Item_Store.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Print.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.LOGIN.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.exe
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.pdb
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\QLKVCGT.exe.config
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\QLKVCGT.exe
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\QLKVCGT.pdb
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.CodeParser.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Xpo.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\EntityFramework.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Xpo.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\EntityFramework.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Issue_Vou.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Inventory.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Receipt_Vou.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.Supplier_Store.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\bin\Debug\DevExpress.Images.v17.1.dll
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListIssue_Vou.resources
+E:\Ky 1\TTNHOM\moi - Copy\TCL\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListReceipt_Vou.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe.config
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.pdb
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csprojAssemblyReference.cache
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.AcountInfo.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Issue_Vou.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Bill.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ChangePass.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Customer_Store.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Employees_Store.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Inventory.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Item_Store.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListIssue_Vou.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListReceipt_Vou.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Print.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Receipt_Vou.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Supplier_Store.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.LOGIN.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.cache
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csproj.CoreCompileInputs.cache
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csproj.CopyComplete
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe
+D:\Nam 4\Ky_1\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.pdb
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe.config
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.pdb
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.pdb
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Data.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.AcountInfo.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Issue_Vou.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Bill.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ChangePass.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Customer_Store.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Employees_Store.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Inventory.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Item_Store.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListIssue_Vou.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListReceipt_Vou.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Print.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Receipt_Vou.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Supplier_Store.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.LOGIN.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+D:\hoctapnam4\TT NHom\BaiThi\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe.config
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.pdb
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.pdb
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\EntityFramework.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Data.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\EntityFramework.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.AcountInfo.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Issue_Vou.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Bill.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ChangePass.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Customer_Store.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Employees_Store.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Inventory.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Item_Store.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListIssue_Vou.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListReceipt_Vou.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Print.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Receipt_Vou.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Supplier_Store.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.LOGIN.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+D:\hoctapnam4\new01\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe.config
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.pdb
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.exe
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\QLKVCGT.pdb
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\EntityFramework.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Data.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\EntityFramework.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\EntityFramework.SqlServer.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csprojResolveAssemblyReference.cache
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.AcountInfo.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Issue_Vou.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Bill.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ChangePass.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Customer_Store.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Employees_Store.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Inventory.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Item_Store.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Form1.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListIssue_Vou.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.ListReceipt_Vou.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Print.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Receipt_Vou.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.GUI.Supplier_Store.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.LOGIN.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.Properties.Resources.resources
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.csproj.GenerateResource.Cache
+D:\hoctapnam4\TT NHom\ttnhom\quanlykho\QLKVCGT\obj\Debug\QLKVCGT.exe.licenses

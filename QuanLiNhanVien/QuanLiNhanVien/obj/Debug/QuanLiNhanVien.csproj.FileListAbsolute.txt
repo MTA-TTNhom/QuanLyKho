@@ -1,0 +1,36 @@
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe.config
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.pdb
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csprojResolveAssemblyReference.cache
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.Properties.Resources.resources
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csproj.GenerateResource.Cache
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.exe
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.pdb
+D:\Documents\Code\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.frmMain.resources
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe.config
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.exe
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.pdb
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.pdb
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.frmMain.resources
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.Properties.Resources.resources
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csproj.GenerateResource.Cache
+C:\Users\Phuong\Documents\Visual Studio 2015\Projects\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csprojResolveAssemblyReference.cache
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe.config
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.exe
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.pdb
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.pdb
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csprojResolveAssemblyReference.cache
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.frmMain.resources
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.Properties.Resources.resources
+D:\Desktop\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csproj.GenerateResource.Cache
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe.config
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.exe
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.pdb
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.pdb
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csprojResolveAssemblyReference.cache
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.frmMain.resources
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.Properties.Resources.resources
+D:\hoctapnam4\new01\quanlykho\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csproj.GenerateResource.Cache
